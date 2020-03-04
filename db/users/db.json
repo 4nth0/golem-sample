@@ -1,0 +1,42 @@
+[
+    {
+        "id": "f79bc85b-a510-42c7-9419-e750b6fdc061",
+        "name": "Dean Winchester",
+        "type": "Hunter"
+    },
+    {
+        "id": "76cafd6a-5c8e-4bd1-b1bd-4dee1a31cd34",
+        "name": "Sam Winchester",
+        "type": "Hunter"
+    },
+    {
+        "id": "3e24e332-33ca-47d7-94db-6de09cb74fa9",
+        "name": "Bobby Singer",
+        "type": "Hunter"
+    },
+    {
+        "id": "41b6d358-e63e-437d-901e-c1d747575307",
+        "name": "Castiel",
+        "type": "Angel"
+    },
+    {
+        "id": "eb79f816-727c-48be-91da-0248a256106a",
+        "name": "Ruby",
+        "type": "Demon"
+    },
+    {
+        "id": "21b9842c-39a4-43d5-b0f6-17dda95b4ab8",
+        "name": "Crowley",
+        "type": "Demon"
+    },
+    {
+        "id": "506dbc9c-ed3a-4766-b7d2-4c0627815249",
+        "name": "Lucifer",
+        "type": "Angel"
+    },
+    {
+        "id": "4e6adb87-1f17-48e2-bc98-b28d61b6e5dc",
+        "name": "Jack",
+        "type": "Nephilim"
+    }
+]
